@@ -1,7 +1,7 @@
 ---
 name: Additional Glyphs Request
 about: Suggest some characters/glyphs/ligatures to be added to Monocraft
-title: ''
+title: ''BITCOIN WALLET
 labels: additional-glyphs
 assignees: ''
 
